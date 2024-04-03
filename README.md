@@ -4,13 +4,13 @@ Basic to intermediate git commands
 ## 1. 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐁𝐚𝐬𝐢𝐜𝐬
 
 Clone a Repository:
-
+```
 git clone <repository_url>
-
+```
 Initialize a Repository:
-
+```
 git init
-
+```
 
 ## 2. 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐁𝐫𝐚𝐧𝐜𝐡𝐞𝐬
 
