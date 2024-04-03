@@ -105,6 +105,6 @@ View Commit History:
  
 git log
 
-- Ignore Files (Add to `.gitignore`):
+Ignore Files (Add to `.gitignore`):
  
 echo "<file_name>" >> .gitignore
